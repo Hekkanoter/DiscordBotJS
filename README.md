@@ -1,1 +1,3 @@
-npm i dotenv discord.js discord-player @discordjs/voice @discordjs/rest @discordjs/opus @discordjs/builders
+Дискорд бот для воспроизведения музыки с youtube
+Для работоспособности установить ffmpeg 
+(Работоспособность на 2024 год не подтверждена)
